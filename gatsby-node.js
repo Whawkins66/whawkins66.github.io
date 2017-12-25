@@ -1,14 +1,7 @@
-//exports.onCreatePage = async ({ page, boundActionCreators }) => {
-  
-// exports.onCreatePage = ({ page, boundActionCreators }) => {
-//   const { createPage } = boundActionCreators;
+/**
+ * Implement Gatsby's Node APIs in this file.
+ *
+ * See: https://www.gatsbyjs.org/docs/node-apis/
+ */
 
-//   return new Promise((resolve, reject) => {
-//     if (page.path.match(/^\/$/)) { 
-//       page.layout = "HomeLayout"
-//       createPage(page)
-//     }
-    
-//     resolve() 
-//   })
-// }
+ // You can delete this file if you're not using it
