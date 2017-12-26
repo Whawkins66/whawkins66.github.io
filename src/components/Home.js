@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <div>
       <p style={s.p}>
-        This is an example single page app built
+        FYCJ
         with React and React&nbsp;Router using {' '}
         <Code>BrowserRouter</Code>. Navigate with the links below and
         refresh the page or copy/paste the url to test out the redirect
