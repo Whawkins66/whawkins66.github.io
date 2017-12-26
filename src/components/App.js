@@ -13,10 +13,10 @@ export default function App() {
       <h1 style={s.title}>William Hawkins</h1>
       <Interactive
         as="a"
-        href="https://github.com/rafrex/spa-github-pages"
+        href="https://github.com/Whawkins66/whawkins66.github.io"
         style={s.repoLink}
         {...s.link}
-      >https://github.com/rafrex/spa-github-pages</Interactive>
+      >https://github.com/Whawkins66/whawkins66.github.io</Interactive>
 
       <nav style={s.breadcrumbs}>
         <Breadcrumbs />

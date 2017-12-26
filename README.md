@@ -27,7 +27,7 @@ A quick SEO note - while it's never good to have a 404 response, it appears base
 &nbsp;
 
 **Detailed instructions** - using this repo as a boilerplate for a React single page app hosted with GitHub Pages  
-  1. Clone this repo (`$ git clone https://github.com/rafrex/spa-github-pages.git`)
+  1. Clone this repo (`$ git clone https://github.com/Whawkins66/whawkins66.github.io.git`)
   2. Delete the `.git` directory (`cd` into the `spa-github-pages` directory and run `$ rm -rf .git`)
   3. Instantiate the repository
       - If you're using this boilerplate as a new repository
@@ -79,15 +79,15 @@ I have included `webpack-dev-server` for testing changes locally. It can be acce
 
 
 <!-- links to within repo -->
-[404html]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/404.html
-[segmentCount]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/404.html#L26
-[indexHtmlScript]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html#L58
-[indexHtmlSPA]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html#L94
-[cnameFile]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/CNAME
-[indexHtmlTitle]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html#L6
-[404htmlTitle]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/404.html#L5
-[favicon]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/index.html#L34
-[startScript]: https://github.com/rafrex/spa-github-pages/blob/gh-pages/package.json#L6
+[404html]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/404.html
+[segmentCount]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/404.html#L26
+[indexHtmlScript]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/index.html#L58
+[indexHtmlSPA]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/index.html#L94
+[cnameFile]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/CNAME
+[indexHtmlTitle]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/index.html#L6
+[404htmlTitle]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/404.html#L5
+[favicon]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/index.html#L34
+[startScript]: https://github.com/Whawkins66/whawkins66.github.io/blob/gh-pages/package.json#L6
 
 <!-- links to github docs -->
 [ghPagesOverview]: https://pages.github.com/
