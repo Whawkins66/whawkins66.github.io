@@ -2,7 +2,7 @@
   "name": "spa-github-pages",
   "version": "5.0.0",
   "private": true,
-  "description": "Single Page Apps for GitHub Pages",
+  "description": "William Hawkins",
   "scripts": {
     "start": "webpack-dev-server --devtool eval-source-map --history-api-fallback --open",
     "build": "webpack -p"
